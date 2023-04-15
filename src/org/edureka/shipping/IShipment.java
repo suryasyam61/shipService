@@ -7,5 +7,7 @@ public interface IShipment {
 	public boolean deleteShipment();
 	
 	public boolean getShipment();
+
+	public boolean In_memory_operations();
 	
 }

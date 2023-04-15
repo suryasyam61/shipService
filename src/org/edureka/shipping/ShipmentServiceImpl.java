@@ -20,4 +20,10 @@ public class ShipmentServiceImpl implements IShipment {
 		return false;
 	}
 
+	@Override
+	public boolean In_memory_operations() {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
 }
